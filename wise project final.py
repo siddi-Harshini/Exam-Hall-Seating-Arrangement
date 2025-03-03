@@ -1,4 +1,3 @@
-# Almost done
 # Background for input pages, mute button, home page
 # With zoomed image
 # With scrollbar
