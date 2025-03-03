@@ -1,7 +1,7 @@
 # Automated Seating Arrangement and Monitoring System for Examination Halls
 
 ## 📽️ Project Demo  
-🔗 [Watch the Demo]()  
+🔗 [Watch the Demo](https://youtu.be/Y75aUXawpTM)  
 
 ## Overview  
 This **Python-based project** automates the process of:  
